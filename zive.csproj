@@ -128,5 +128,29 @@
   <ItemGroup>
     <None Include="Resources\pacman_up_4.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enemy_down_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enemy_down_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enemy_left_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enemy_left_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enemy_right_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enemy_right_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enemy_up_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enemy_up_2.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
